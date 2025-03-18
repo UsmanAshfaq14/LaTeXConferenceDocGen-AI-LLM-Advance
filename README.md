@@ -10,7 +10,7 @@ This case study explains the system’s functioning in simple terms to ensure cl
 
 - **Project Name:** LaTeXConferenceDocGen-AI  
 - **Version:** 1.0.0  
-- **Author:** Your Organization  
+- **Author:** Usman Ashfaq 
 - **Keywords:** LaTeX, Conference, Document Generation, XML, Data Validation, Academic Formatting
 
 ## Features
